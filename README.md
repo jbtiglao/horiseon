@@ -7,7 +7,7 @@ As first class assignment, we were tasked to refactor Horiseon, a mock-up web pa
 
 Below is an image of the Horiseon webpage with its header, navigation bar, header image, main content with images and text, side bar with icons and text, and footer.
 
-(./Assets/01-html-css-git-homework-demo.png)
+(./assets/images/01-html-css-git-homework-demo.png)
 
 The web page has links that don't work or "jump" to the relevant content when clicked. The images and icons need proper descriptors while the HTML and CSS files need to be improved for efficiency and maximum accessibility.
 
