@@ -1,3 +1,4 @@
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 As first class assignment, we were tasked to refactor Horiseon, a mock-up web page. We are given a starter code that needs to be modifed in order to make it more accessible.
@@ -10,8 +11,6 @@ Below is an image of the Horiseon webpage with its header, navigation bar, heade
 (./assets/images/01-html-css-git-homework-demo.png)
 
 The web page has links that don't work or "jump" to the relevant content when clicked. The images and icons need proper descriptors while the HTML and CSS files need to be improved for efficiency and maximum accessibility.
-
-
 
 
 
@@ -32,6 +31,9 @@ The efficiency of the CSS is increased by consolidating the selectors and proper
 With all the improvement, the application still resembles the mock-up shown above and provided in the homework instructions (at least 90%).
 
 
+## Link to Deployed Application
+
+https://github.com/jbtiglao/horiseon.git
 
 
 
