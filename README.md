@@ -33,7 +33,7 @@ With all the improvement, the application still resembles the mock-up shown abov
 
 ## Link to Deployed Application
 
-https://github.com/jbtiglao/horiseon.git
+https://jbtiglao.github.io/horiseon/
 
 
 
